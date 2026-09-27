@@ -2,9 +2,6 @@
 
 来源：https://hostloc.com/thread-976473-1-1.html
 
-演示：https://tool.ruyo.net/
-
-
 # 安装说明
 
 Nginx+php必须7.4   无需数据库
